@@ -1,4 +1,4 @@
-﻿<Project>
+<Project>
   <PropertyGroup>
     <Copyright>Copyright © 2022 Your Company</Copyright>
     <Authors>Your Authors</Authors>
@@ -23,7 +23,7 @@
     <TestSdkVersion>17.4.0</TestSdkVersion>
     <AkkaVersion>1.4.46</AkkaVersion>
     <PbmVersion>1.2.0</PbmVersion>
-    <AkkaHostingVersion>0.5.1</AkkaHostingVersion>
+    <AkkaHostingVersion>1.5.2</AkkaHostingVersion>
     <FluentAssertionsVersion>6.8.0</FluentAssertionsVersion>
     <MicrosoftExtensionsVersion>6.0.1</MicrosoftExtensionsVersion>
   </PropertyGroup>
